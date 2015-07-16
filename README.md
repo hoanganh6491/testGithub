@@ -6,3 +6,5 @@ testGithub
 7689
 
 test line
+new line
+smt new
